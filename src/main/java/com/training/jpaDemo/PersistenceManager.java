@@ -1,4 +1,4 @@
-package com.db.jpaDemo;
+package com.training.jpaDemo;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

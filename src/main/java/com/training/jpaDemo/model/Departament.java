@@ -1,4 +1,4 @@
-package com.db.jpaDemo.model;
+package com.training.jpaDemo.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.db.jpaDemo.model;
+package com.training.jpaDemo.model;
 
 import java.util.Date;
 
@@ -14,7 +14,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import com.db.jpaDemo.util.Status;
+import com.training.jpaDemo.util.Status;
 
 @Entity
 @NamedQuery(name="findTasksByStatus", query="select t from Task t where t.status = :status")

@@ -1,4 +1,4 @@
-package com.db.jpaDemo.model;
+package com.training.jpaDemo.model;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import com.db.jpaDemo.util.Status;
+import com.training.jpaDemo.util.Status;
 
 @Entity
 @Table(name = "project")

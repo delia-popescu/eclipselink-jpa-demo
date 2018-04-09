@@ -1,4 +1,4 @@
-package com.db.jpaDemo.model;
+package com.training.jpaDemo.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
